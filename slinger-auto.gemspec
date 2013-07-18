@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "slinger-auto"
   spec.version       = Slinger::Auto::VERSION
   spec.authors       = ["Keith Larrimore"]
-  spec.email         = ["klarrimore@icehook.com"]
+  spec.email         = ["keithlarrimore@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
@@ -20,5 +20,4 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
-  spec.add_development_dependency "slingerdb-ruby", "~> 0.0.5"
 end
